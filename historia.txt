@@ -1,0 +1,5 @@
+esta es mi primer historia en git
+
+esta es una seguna linea de texto
+
+luego de unos segundos tendremos una tercera linea de texto
